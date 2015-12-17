@@ -1,6 +1,6 @@
 name: The Study of Robert
 favicon: null
-layout_spectrum: 0.8923
+layout_spectrum: 1
 typography_spectrum: 1
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.375
   lightness: 0.4375
   saturation: 0.15039002266712487
-  rhythmicContrast: 0.830153692048043
+  rhythmicContrast: 0
 purpose: []
