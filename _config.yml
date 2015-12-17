@@ -1,7 +1,7 @@
 name: The Study of Robert
 favicon: null
-layout_spectrum: 0.340943512506783
-typography_spectrum: 0.23829940892755985
+layout_spectrum: 0.8923
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.48717496381141245
-  lightness: 0.07558448310010135
+    - '#8e3318'
+    - '#7b2411'
+    - '#782d1a'
+    - '#a3482d'
+    - '#6f1805'
+  brandStrength: 0.375
+  lightness: 0.4375
   saturation: 0.15039002266712487
   rhythmicContrast: 0.830153692048043
 purpose: []
